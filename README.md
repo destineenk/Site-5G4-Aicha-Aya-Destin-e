@@ -7,7 +7,7 @@ Ce site utilise de le thème relearn. Cette dépendance est mise comme un sous m
 Autrement après un clone simple :
 
 `$ git submodule init`
-
+.
 `$ git submodule update`
 
 Si vous oubliez cette étape, la commande `$ hugo serve` retournera une erreur.
