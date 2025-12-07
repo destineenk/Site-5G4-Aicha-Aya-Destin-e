@@ -143,7 +143,7 @@ Je cherche des informations sur les explications techniques simples, les Informa
 
 ## Vidéo 1 — Unity in 100 seconds (7 mars 2025) 
 
-Lien : https://youtu.be/iqlH4okiQqg?si=869sufMj-eqSHZcU 
+{{< youtube iqlH4okiQqg >}}
 
 Informations clés : 
 
@@ -165,7 +165,7 @@ Jeu 2D/3D
 
 (19 novembre 2025) 
 
-Lien : https://youtu.be/9z3dqjXErGk?si=45WxPq48YqvN-9N_ 
+{{< youtube 9z3dqjXErGk >}}
 
 Apports : 
 
